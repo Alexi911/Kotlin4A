@@ -29,8 +29,7 @@ git clone https://github.com/Alexi911/NBATeams.git
 
 #### SplashScreen
 <p align="center" width="100%">
-    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/01.png)
-"/>
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/01.png"/>
 </p>
 
 
