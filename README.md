@@ -37,7 +37,7 @@ git clone https://github.com/Alexi911/NBATeams.git
 
 #### Create An Account 
 
-> Après avoir cliquer sur "Create an Account" nous nous retrouvons sur l'écran de création de compte.</br>
+> Après avoir cliqué sur "Create an Account" nous nous retrouvons sur l'écran de création du compte.</br>
 > Remplir les informations demandées.</br>
 > Une fois cela fait appuyer sur "Registrer" afin d'enregistrer vos informations.</br>
 > Si aucune erreur n'a été détectée on obtient le pop-up "Registration Successful".</br>
@@ -58,7 +58,7 @@ git clone https://github.com/Alexi911/NBATeams.git
 
 #### Team
 
-> Une fois connecter vous accédez à la page de l'équipe.
+> Une fois connecté vous accéderez à la page de l'équipe.
 
 <p align="center" width="100%">
     <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/06.png"/>
@@ -74,7 +74,7 @@ git clone https://github.com/Alexi911/NBATeams.git
 
 #### Reported Errors
 
-> Vous pouvez retrouver ci dessous les messages d'erreur qui s'afficheront lorsqu'une erreur sera détectée
+> Vous pouvez retrouver ci-dessous les messages d'erreur qui s'afficheront lorsqu'une erreur sera détectée.
 
 <p align="center" width="100%">
     <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/08.png"/>
