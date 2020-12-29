@@ -64,6 +64,11 @@ git clone https://github.com/Alexi911/NBATeams.git
 #### Reported Errors
 <p align="center" width="100%">
     <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/08.png"/>
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/09.png"/>
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/10.png"/>
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/11.png"/>
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/12.png"/>
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/13.png"/>
 </p>
 
 <p align="center" width="100%">
