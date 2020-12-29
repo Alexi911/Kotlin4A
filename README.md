@@ -19,17 +19,30 @@ git clone https://github.com/Alexi911/NBATeams.git
 
 
 #### SplashScreen
+
+> Simple Splash Screen.
+
 <p align="center" width="100%">
     <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/01.png"/>
 </p>
 
-
 #### Login Screen 
+
+> Une fois le Splash Screen finit on se retrouve sur l'écran de connexion.
+> Si vous n'avez pas encore de compte cliquez sur "Create an Account".
+
 <p align="center" width="100%">
     <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/02.png"/>
 </p> </br>
 
 #### Create An Account 
+
+> Après avoir cliquer sur "Create an Account" nous nous retrouvons sur l'écran de création de compte.
+> Remplir les informations demandées.
+> Une fois cela fait appuyer sur "Registrer" afin d'enregistrer vos informations.
+> Si aucune erreur n'a été détectée on obtient le pop-up "Registration Successful".
+> Appuyez sur Login pour retourner sur la page de connexion.
+
 <p align="center" width="100%">
     <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/03.png"/>
 </p>
@@ -38,21 +51,33 @@ git clone https://github.com/Alexi911/NBATeams.git
 </p>
 
 #### Login
+
+> Vous êtes maintenant enregistré vous pouvez vous connecter.
+
 <p align="center" width="100%">
     <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/05.png"/>
 </p>
 
 #### Team
+
+> Une fois connecter vous accédez à la page de l'équipe.
+
 <p align="center" width="100%">
     <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/06.png"/>
 </p>
 
 #### Player Details
+
+> En cliquant sur un joueur vous obtiendrez des détails sur celui-ci.
+
 <p align="center" width="100%">
     <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/07.png"/>
 </p>
 
 #### Reported Errors
+
+> Vous pouvez retrouver ci dessous les messages d'erreur qui s'afficheront lorsqu'une erreur sera détectée
+
 <p align="center" width="100%">
     <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/08.png"/>
     <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/09.png"/>
