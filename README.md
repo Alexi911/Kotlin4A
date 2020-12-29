@@ -70,25 +70,3 @@ git clone https://github.com/Alexi911/NBATeams.git
     <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/12.png"/>
     <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/13.png"/>
 </p>
-
-<p align="center" width="100%">
-    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/09.png"/>
-</p>
-
-<p align="center" width="100%">
-    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/10.png"/>
-</p>
-
-<p align="center" width="100%">
-    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/11.png"/>
-</p>
-
-<p align="center" width="100%">
-    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/12.png"/>
-</p>
-
-<p align="center" width="100%">
-    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/13.png"/>
-</p>
-
-
