@@ -28,7 +28,7 @@ git clone https://github.com/Alexi911/NBATeams.git
 
 #### Login Screen 
 
-> Une fois le Splash Screen finit on se retrouve sur l'écran de connexion.
+> Une fois le Splash Screen finit on se retrouve sur l'écran de connexion.</br>
 > Si vous n'avez pas encore de compte cliquez sur "Create an Account".
 
 <p align="center" width="100%">
@@ -37,10 +37,10 @@ git clone https://github.com/Alexi911/NBATeams.git
 
 #### Create An Account 
 
-> Après avoir cliquer sur "Create an Account" nous nous retrouvons sur l'écran de création de compte.
-> Remplir les informations demandées.
-> Une fois cela fait appuyer sur "Registrer" afin d'enregistrer vos informations.
-> Si aucune erreur n'a été détectée on obtient le pop-up "Registration Successful".
+> Après avoir cliquer sur "Create an Account" nous nous retrouvons sur l'écran de création de compte.</br>
+> Remplir les informations demandées.</br>
+> Une fois cela fait appuyer sur "Registrer" afin d'enregistrer vos informations.</br>
+> Si aucune erreur n'a été détectée on obtient le pop-up "Registration Successful".</br>
 > Appuyez sur Login pour retourner sur la page de connexion.
 
 <p align="center" width="100%">
