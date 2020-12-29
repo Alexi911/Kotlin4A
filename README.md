@@ -17,15 +17,6 @@ git clone https://github.com/Alexi911/NBATeams.git
 ![alt text]( https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)</br>
 <u>Image Source : https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg</u>
 
-### Résumé
-
-- Clean Architecture</br>
-- SplashScreen </br>
-- SplashScreen </br>
-- Utilisation de RecyclerView </br>
-- Récupération et affichage des détails des joueurs </br>
-- Appel à un webService - APIRest </br>
-### Captures d'écrans
 
 #### SplashScreen
 <p align="center" width="100%">
