@@ -34,32 +34,56 @@ git clone https://github.com/Alexi911/NBATeams.git
 
 
 #### Login Screen 
-![Screen02](https://raw.githubusercontent.com/Alexi911/Kotlin4A/master/ScreenShot_ReadMe/02.png) </br>
+<p align="center" width="100%">
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/02.png"/>
+</p> </br>
 
 #### Create An Account 
-![Screen03](https://raw.githubusercontent.com/Alexi911/Kotlin4A/master/ScreenShot_ReadMe/03.png)
-![Screen04](https://raw.githubusercontent.com/Alexi911/Kotlin4A/master/ScreenShot_ReadMe/04.png)
+<p align="center" width="100%">
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/03.png"/>
+</p>
+<p align="center" width="100%">
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/04.png"/>
+</p>
 
 #### Login
-![Screen05](https://raw.githubusercontent.com/Alexi911/Kotlin4A/master/ScreenShot_ReadMe/05.png)
+<p align="center" width="100%">
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/05.png"/>
+</p>
 
 #### Team
-![Screen06](https://raw.githubusercontent.com/Alexi911/Kotlin4A/master/ScreenShot_ReadMe/06.png)
+<p align="center" width="100%">
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/06.png"/>
+</p>
 
 #### Player Details
-![Screen07](https://raw.githubusercontent.com/Alexi911/Kotlin4A/master/ScreenShot_ReadMe/07.png)
+<p align="center" width="100%">
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/07.png"/>
+</p>
 
 #### Reported Errors
-![Screen08](https://raw.githubusercontent.com/Alexi911/Kotlin4A/master/ScreenShot_ReadMe/08.png)
+<p align="center" width="100%">
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/08.png"/>
+</p>
 
-![Screen09](https://raw.githubusercontent.com/Alexi911/Kotlin4A/master/ScreenShot_ReadMe/09.png)
+<p align="center" width="100%">
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/09.png"/>
+</p>
 
-![Screen10](https://raw.githubusercontent.com/Alexi911/Kotlin4A/master/ScreenShot_ReadMe/10.png)
+<p align="center" width="100%">
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/10.png"/>
+</p>
 
-![Screen11](https://raw.githubusercontent.com/Alexi911/Kotlin4A/master/ScreenShot_ReadMe/11.png)
+<p align="center" width="100%">
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/11.png"/>
+</p>
 
-![Screen12](https://raw.githubusercontent.com/Alexi911/Kotlin4A/master/ScreenShot_ReadMe/12.png)
+<p align="center" width="100%">
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/12.png"/>
+</p>
 
-![Screen13](https://raw.githubusercontent.com/Alexi911/Kotlin4A/master/ScreenShot_ReadMe/13.png)
+<p align="center" width="100%">
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/13.png"/>
+</p>
 
 
