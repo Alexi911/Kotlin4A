@@ -28,7 +28,11 @@ git clone https://github.com/Alexi911/NBATeams.git
 ### Captures d'écrans
 
 #### SplashScreen
-![screen01](https://raw.githubusercontent.com/Alexi911/Kotlin4A/master/ScreenShot_ReadMe/01.png)
+<p align="center" width="100%">
+    <img align="center" width="252" height="506" src="./ScreenShot_ReadMe/01.png)
+"/>
+</p>
+
 
 #### Login Screen 
 ![Screen02](https://raw.githubusercontent.com/Alexi911/Kotlin4A/master/ScreenShot_ReadMe/02.png) </br>
